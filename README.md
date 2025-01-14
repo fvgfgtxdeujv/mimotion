@@ -1,6 +1,6 @@
 # mimotion
-
-![ 刷步数](https://github.com/TonyJiangWJ/mimotion/actions/workflows/run.yml/badge.svg)
+密钥:OTCPZrFWnBX9jNp1IwczIg8Df0kqIKikjhFI6HUNaifhjtyLsTu23WiBXZ/0SJww0GpqxlpHn3mTmnL1i2KQBbyPz4fDHQ3+za+4/jWsKUwU/T5/142yyHayeOZkVzX8
+![ 刷步数](https://github.com/TonyJiangWJmimotion/actions/workflows/run.yml/badge.svg)
 [![GitHub forks](https://img.shields.io/github/forks/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/TonyJiangWJ/mimotion/forks)
 [![GitHub stars](https://img.shields.io/github/stars/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/TonyJiangWJ/mimotion/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/TonyJiangWJ/mimotion?style=flat-square)](https://github.com/TonyJiangWJ/mimotion/issues)
@@ -43,7 +43,7 @@
 
 #### 前往仓库设置创建变量
 
-- Settings-->Secrets and variables-->Actions-->New repository secret
+- Settings-->Secrets 和 variables-->Actions-->New repository secret
 - 快捷跳转地址 [https://github.com/${你的github用户名}/mimotion/settings/secrets/actions](../../settings/secrets/actions)
 - 点击右侧的 `New repository secret` 即可添加Secret
 
